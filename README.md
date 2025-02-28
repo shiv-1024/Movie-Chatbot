@@ -81,8 +81,7 @@ goodbye
 - Enhance chatbot responses with NLP models for better user interaction.
 - Add more genres and refine recommendations.
 
-## License
-This project is for educational purposes and is open-source.
+
 
 ---
 Feel free to modify and enhance the chatbot as per your requirements!
