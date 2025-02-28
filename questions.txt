@@ -1,0 +1,28 @@
+hi
+hello
+hey
+what is your name?
+how are you?
+can you recommend a movie?
+what are some good action movies?
+what are some good comedy movies?
+what are some good horror movies?
+what are some good sci-fi movies?
+what are some good animated movies?
+what are some good romantic movies?
+what is a [genre] movie?
+tell me about [genre] movies
+who directed [movie name]?
+who starred in [movie name]?
+what is the plot of [movie name]?
+when was [movie name] released?
+is [movie name] a good movie?
+what is the rating of [movie name]?
+tell me a movie fact
+what is the best movie ever?
+what can you do?
+help
+thank you
+thanks
+bye
+goodbye
